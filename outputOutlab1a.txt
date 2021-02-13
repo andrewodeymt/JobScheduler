@@ -1,0 +1,1015 @@
+Second by second output for a Job Scheduler. If a job is completed, the wait time and total execution time for the job are also printed.
+
+Number of jobs: 8
+
+
+
+Current second: 0    | Queue Idle
+
+
+Current second: 1    | Queue Idle
+
+
+Current second: 2    | Queue Idle
+
+
+Current second: 3    | Queue Idle
+
+
+Current second: 4    | Queue Idle
+
+
+Current second: 5    | Core: 1  |Current job number: 8  |
+
+
+Current second: 6    | Core: 1  |Current job number: 8  |
+
+
+Current second: 7    | Core: 1  |Current job number: 8  |
+
+
+Current second: 8    | Core: 1  |Current job number: 8  |
+
+
+Current second: 9    | Core: 1  |Current job number: 8  |
+
+
+Current second: 10   | Core: 1  |Current job number: 2  |
+
+
+Current second: 11   | Core: 1  |Current job number: 2  |
+
+
+Current second: 12   | Core: 1  |Current job number: 2  |
+
+
+Current second: 13   | Core: 1  |Current job number: 2  |
+
+
+Current second: 14   | Core: 1  |Current job number: 2  |
+
+
+Current second: 15   | Core: 1  |Current job number: 2  |
+
+
+Current second: 16   | Core: 1  |Current job number: 2  |
+
+
+Current second: 17   | Core: 1  |Current job number: 2  |
+
+
+Current second: 18   | Core: 1  |Current job number: 2  |
+
+
+Current second: 19   | Core: 1  |Current job number: 2  |
+
+
+Current second: 20   | Core: 1  |Current job number: 2  |
+
+
+Current second: 21   | Core: 1  |Current job number: 2  |
+
+
+Current second: 22   | Core: 1  |Current job number: 2  |
+
+
+Current second: 23   | Core: 1  |Current job number: 2  |
+
+
+Completed job 2
+Current second: 24   | Core: 1  |Current job number: 2  |
+
+
+Current second: 25   | Core: 1  |Current job number: 7  |
+
+
+Current second: 26   | Core: 1  |Current job number: 7  |
+
+
+Current second: 27   | Core: 1  |Current job number: 7  |
+
+
+Current second: 28   | Core: 1  |Current job number: 7  |
+
+
+Current second: 29   | Core: 1  |Current job number: 7  |
+
+
+Current second: 30   | Core: 1  |Current job number: 7  |
+
+
+Current second: 31   | Core: 1  |Current job number: 7  |
+
+
+Current second: 32   | Core: 1  |Current job number: 7  |
+
+
+Current second: 33   | Core: 1  |Current job number: 7  |
+
+
+Current second: 34   | Core: 1  |Current job number: 7  |
+
+
+Current second: 35   | Core: 1  |Current job number: 7  |
+
+
+Current second: 36   | Core: 1  |Current job number: 7  |
+
+
+Current second: 37   | Core: 1  |Current job number: 7  |
+
+
+Current second: 38   | Core: 1  |Current job number: 7  |
+
+
+Current second: 39   | Core: 1  |Current job number: 7  |
+
+
+Current second: 40   | Core: 1  |Current job number: 7  |
+
+
+Current second: 41   | Core: 1  |Current job number: 7  |
+
+
+Current second: 42   | Core: 1  |Current job number: 7  |
+
+
+Current second: 43   | Core: 1  |Current job number: 7  |
+
+
+Current second: 44   | Core: 1  |Current job number: 7  |
+
+
+Current second: 45   | Core: 1  |Current job number: 7  |
+
+
+Current second: 46   | Core: 1  |Current job number: 7  |
+
+
+Current second: 47   | Core: 1  |Current job number: 7  |
+
+
+Current second: 48   | Core: 1  |Current job number: 7  |
+
+
+Current second: 49   | Core: 1  |Current job number: 7  |
+
+
+Current second: 50   | Core: 1  |Current job number: 7  |
+
+
+Current second: 51   | Core: 1  |Current job number: 7  |
+
+
+Current second: 52   | Core: 1  |Current job number: 7  |
+
+
+Current second: 53   | Core: 1  |Current job number: 7  |
+
+
+Current second: 54   | Core: 1  |Current job number: 7  |
+
+
+Current second: 55   | Core: 1  |Current job number: 7  |
+
+
+Current second: 56   | Core: 1  |Current job number: 7  |
+
+
+Current second: 57   | Core: 1  |Current job number: 7  |
+
+
+Current second: 58   | Core: 1  |Current job number: 7  |
+
+
+Current second: 59   | Core: 1  |Current job number: 7  |
+
+
+Current second: 60   | Core: 1  |Current job number: 7  |
+
+
+Completed job 7
+Current second: 61   | Core: 1  |Current job number: 7  |
+
+
+Current second: 62   | Core: 1  |Current job number: 6  |
+
+
+Current second: 63   | Core: 1  |Current job number: 6  |
+
+
+Current second: 64   | Core: 1  |Current job number: 6  |
+
+
+Completed job 6
+Current second: 65   | Core: 1  |Current job number: 6  |
+
+
+Current second: 66   | Core: 1  |Current job number: 8  |
+
+
+Current second: 67   | Core: 1  |Current job number: 8  |
+
+
+Current second: 68   | Core: 1  |Current job number: 8  |
+
+
+Current second: 69   | Core: 1  |Current job number: 8  |
+
+
+Current second: 70   | Core: 1  |Current job number: 8  |
+
+
+Current second: 71   | Core: 1  |Current job number: 8  |
+
+
+Current second: 72   | Core: 1  |Current job number: 8  |
+
+
+Current second: 73   | Core: 1  |Current job number: 8  |
+
+
+Current second: 74   | Core: 1  |Current job number: 8  |
+
+
+Current second: 75   | Core: 1  |Current job number: 8  |
+
+
+Current second: 76   | Core: 1  |Current job number: 8  |
+
+
+Current second: 77   | Core: 1  |Current job number: 8  |
+
+
+Current second: 78   | Core: 1  |Current job number: 8  |
+
+
+Current second: 79   | Core: 1  |Current job number: 8  |
+
+
+Current second: 80   | Core: 1  |Current job number: 8  |
+
+
+Current second: 81   | Core: 1  |Current job number: 8  |
+
+
+Current second: 82   | Core: 1  |Current job number: 8  |
+
+
+Current second: 83   | Core: 1  |Current job number: 8  |
+
+
+Current second: 84   | Core: 1  |Current job number: 8  |
+
+
+Current second: 85   | Core: 1  |Current job number: 8  |
+
+
+Current second: 86   | Core: 1  |Current job number: 8  |
+
+
+Current second: 87   | Core: 1  |Current job number: 8  |
+
+
+Current second: 88   | Core: 1  |Current job number: 8  |
+
+
+Current second: 89   | Core: 1  |Current job number: 8  |
+
+
+Current second: 90   | Core: 1  |Current job number: 8  |
+
+
+Current second: 91   | Core: 1  |Current job number: 8  |
+
+
+Current second: 92   | Core: 1  |Current job number: 8  |
+
+
+Current second: 93   | Core: 1  |Current job number: 8  |
+
+
+Current second: 94   | Core: 1  |Current job number: 8  |
+
+
+Current second: 95   | Core: 1  |Current job number: 8  |
+
+
+Current second: 96   | Core: 1  |Current job number: 8  |
+
+
+Current second: 97   | Core: 1  |Current job number: 8  |
+
+
+Current second: 98   | Core: 1  |Current job number: 8  |
+
+
+Current second: 99   | Core: 1  |Current job number: 8  |
+
+
+Current second: 100  | Core: 1  |Current job number: 8  |
+
+
+Current second: 101  | Core: 1  |Current job number: 8  |
+
+
+Current second: 102  | Core: 1  |Current job number: 8  |
+
+
+Current second: 103  | Core: 1  |Current job number: 8  |
+
+
+Current second: 104  | Core: 1  |Current job number: 8  |
+
+
+Current second: 105  | Core: 1  |Current job number: 8  |
+
+
+Current second: 106  | Core: 1  |Current job number: 8  |
+
+
+Current second: 107  | Core: 1  |Current job number: 8  |
+
+
+Current second: 108  | Core: 1  |Current job number: 8  |
+
+
+Current second: 109  | Core: 1  |Current job number: 8  |
+
+
+Current second: 110  | Core: 1  |Current job number: 8  |
+
+
+Current second: 111  | Core: 1  |Current job number: 8  |
+
+
+Current second: 112  | Core: 1  |Current job number: 8  |
+
+
+Current second: 113  | Core: 1  |Current job number: 8  |
+
+
+Current second: 114  | Core: 1  |Current job number: 8  |
+
+
+Current second: 115  | Core: 1  |Current job number: 8  |
+
+
+Current second: 116  | Core: 1  |Current job number: 8  |
+
+
+Current second: 117  | Core: 1  |Current job number: 8  |
+
+
+Current second: 118  | Core: 1  |Current job number: 8  |
+
+
+Current second: 119  | Core: 1  |Current job number: 8  |
+
+
+Current second: 120  | Core: 1  |Current job number: 8  |
+
+
+Current second: 121  | Core: 1  |Current job number: 8  |
+
+
+Current second: 122  | Core: 1  |Current job number: 8  |
+
+
+Current second: 123  | Core: 1  |Current job number: 8  |
+
+
+Current second: 124  | Core: 1  |Current job number: 8  |
+
+
+Current second: 125  | Core: 1  |Current job number: 8  |
+
+
+Current second: 126  | Core: 1  |Current job number: 8  |
+
+
+Current second: 127  | Core: 1  |Current job number: 8  |
+
+
+Current second: 128  | Core: 1  |Current job number: 8  |
+
+
+Current second: 129  | Core: 1  |Current job number: 8  |
+
+
+Current second: 130  | Core: 1  |Current job number: 8  |
+
+
+Current second: 131  | Core: 1  |Current job number: 8  |
+
+
+Current second: 132  | Core: 1  |Current job number: 8  |
+
+
+Current second: 133  | Core: 1  |Current job number: 8  |
+
+
+Current second: 134  | Core: 1  |Current job number: 8  |
+
+
+Current second: 135  | Core: 1  |Current job number: 8  |
+
+
+Current second: 136  | Core: 1  |Current job number: 8  |
+
+
+Current second: 137  | Core: 1  |Current job number: 8  |
+
+
+Current second: 138  | Core: 1  |Current job number: 8  |
+
+
+Current second: 139  | Core: 1  |Current job number: 8  |
+
+
+Current second: 140  | Core: 1  |Current job number: 8  |
+
+
+Current second: 141  | Core: 1  |Current job number: 8  |
+
+
+Current second: 142  | Core: 1  |Current job number: 8  |
+
+
+Current second: 143  | Core: 1  |Current job number: 8  |
+
+
+Current second: 144  | Core: 1  |Current job number: 8  |
+
+
+Current second: 145  | Core: 1  |Current job number: 8  |
+
+
+Current second: 146  | Core: 1  |Current job number: 8  |
+
+
+Current second: 147  | Core: 1  |Current job number: 8  |
+
+
+Current second: 148  | Core: 1  |Current job number: 8  |
+
+
+Current second: 149  | Core: 1  |Current job number: 8  |
+
+
+Current second: 150  | Core: 1  |Current job number: 8  |
+
+
+Current second: 151  | Core: 1  |Current job number: 8  |
+
+
+Current second: 152  | Core: 1  |Current job number: 8  |
+
+
+Current second: 153  | Core: 1  |Current job number: 8  |
+
+
+Current second: 154  | Core: 1  |Current job number: 8  |
+
+
+Current second: 155  | Core: 1  |Current job number: 8  |
+
+
+Current second: 156  | Core: 1  |Current job number: 8  |
+
+
+Current second: 157  | Core: 1  |Current job number: 8  |
+
+
+Current second: 158  | Core: 1  |Current job number: 8  |
+
+
+Current second: 159  | Core: 1  |Current job number: 8  |
+
+
+Completed job 8
+Current second: 160  | Core: 1  |Current job number: 8  |
+
+
+Current second: 161  | Core: 1  |Current job number: 3  |
+
+
+Current second: 162  | Core: 1  |Current job number: 3  |
+
+
+Current second: 163  | Core: 1  |Current job number: 3  |
+
+
+Current second: 164  | Core: 1  |Current job number: 3  |
+
+
+Current second: 165  | Core: 1  |Current job number: 3  |
+
+
+Current second: 166  | Core: 1  |Current job number: 3  |
+
+
+Current second: 167  | Core: 1  |Current job number: 3  |
+
+
+Completed job 3
+Current second: 168  | Core: 1  |Current job number: 3  |
+
+
+Current second: 169  | Core: 1  |Current job number: 1  |
+
+
+Current second: 170  | Core: 1  |Current job number: 1  |
+
+
+Current second: 171  | Core: 1  |Current job number: 1  |
+
+
+Current second: 172  | Core: 1  |Current job number: 1  |
+
+
+Current second: 173  | Core: 1  |Current job number: 1  |
+
+
+Current second: 174  | Core: 1  |Current job number: 1  |
+
+
+Current second: 175  | Core: 1  |Current job number: 1  |
+
+
+Current second: 176  | Core: 1  |Current job number: 1  |
+
+
+Current second: 177  | Core: 1  |Current job number: 1  |
+
+
+Current second: 178  | Core: 1  |Current job number: 1  |
+
+
+Current second: 179  | Core: 1  |Current job number: 1  |
+
+
+Current second: 180  | Core: 1  |Current job number: 1  |
+
+
+Current second: 181  | Core: 1  |Current job number: 1  |
+
+
+Current second: 182  | Core: 1  |Current job number: 1  |
+
+
+Current second: 183  | Core: 1  |Current job number: 1  |
+
+
+Current second: 184  | Core: 1  |Current job number: 1  |
+
+
+Current second: 185  | Core: 1  |Current job number: 1  |
+
+
+Current second: 186  | Core: 1  |Current job number: 1  |
+
+
+Current second: 187  | Core: 1  |Current job number: 1  |
+
+
+Current second: 188  | Core: 1  |Current job number: 1  |
+
+
+Current second: 189  | Core: 1  |Current job number: 1  |
+
+
+Current second: 190  | Core: 1  |Current job number: 1  |
+
+
+Current second: 191  | Core: 1  |Current job number: 1  |
+
+
+Current second: 192  | Core: 1  |Current job number: 1  |
+
+
+Current second: 193  | Core: 1  |Current job number: 1  |
+
+
+Current second: 194  | Core: 1  |Current job number: 1  |
+
+
+Current second: 195  | Core: 1  |Current job number: 1  |
+
+
+Current second: 196  | Core: 1  |Current job number: 1  |
+
+
+Current second: 197  | Core: 1  |Current job number: 1  |
+
+
+Current second: 198  | Core: 1  |Current job number: 1  |
+
+
+Current second: 199  | Core: 1  |Current job number: 1  |
+
+
+Current second: 200  | Core: 1  |Current job number: 1  |
+
+
+Current second: 201  | Core: 1  |Current job number: 1  |
+
+
+Current second: 202  | Core: 1  |Current job number: 1  |
+
+
+Current second: 203  | Core: 1  |Current job number: 1  |
+
+
+Current second: 204  | Core: 1  |Current job number: 1  |
+
+
+Current second: 205  | Core: 1  |Current job number: 1  |
+
+
+Current second: 206  | Core: 1  |Current job number: 1  |
+
+
+Current second: 207  | Core: 1  |Current job number: 1  |
+
+
+Current second: 208  | Core: 1  |Current job number: 1  |
+
+
+Current second: 209  | Core: 1  |Current job number: 1  |
+
+
+Current second: 210  | Core: 1  |Current job number: 1  |
+
+
+Current second: 211  | Core: 1  |Current job number: 1  |
+
+
+Current second: 212  | Core: 1  |Current job number: 1  |
+
+
+Current second: 213  | Core: 1  |Current job number: 1  |
+
+
+Current second: 214  | Core: 1  |Current job number: 1  |
+
+
+Current second: 215  | Core: 1  |Current job number: 1  |
+
+
+Current second: 216  | Core: 1  |Current job number: 1  |
+
+
+Current second: 217  | Core: 1  |Current job number: 1  |
+
+
+Current second: 218  | Core: 1  |Current job number: 1  |
+
+
+Current second: 219  | Core: 1  |Current job number: 1  |
+
+
+Current second: 220  | Core: 1  |Current job number: 1  |
+
+
+Current second: 221  | Core: 1  |Current job number: 1  |
+
+
+Current second: 222  | Core: 1  |Current job number: 1  |
+
+
+Current second: 223  | Core: 1  |Current job number: 1  |
+
+
+Current second: 224  | Core: 1  |Current job number: 1  |
+
+
+Current second: 225  | Core: 1  |Current job number: 1  |
+
+
+Current second: 226  | Core: 1  |Current job number: 1  |
+
+
+Current second: 227  | Core: 1  |Current job number: 1  |
+
+
+Current second: 228  | Core: 1  |Current job number: 1  |
+
+
+Current second: 229  | Core: 1  |Current job number: 1  |
+
+
+Current second: 230  | Core: 1  |Current job number: 1  |
+
+
+Current second: 231  | Core: 1  |Current job number: 1  |
+
+
+Current second: 232  | Core: 1  |Current job number: 1  |
+
+
+Current second: 233  | Core: 1  |Current job number: 1  |
+
+
+Current second: 234  | Core: 1  |Current job number: 1  |
+
+
+Current second: 235  | Core: 1  |Current job number: 1  |
+
+
+Current second: 236  | Core: 1  |Current job number: 1  |
+
+
+Current second: 237  | Core: 1  |Current job number: 1  |
+
+
+Current second: 238  | Core: 1  |Current job number: 1  |
+
+
+Current second: 239  | Core: 1  |Current job number: 1  |
+
+
+Current second: 240  | Core: 1  |Current job number: 1  |
+
+
+Current second: 241  | Core: 1  |Current job number: 1  |
+
+
+Current second: 242  | Core: 1  |Current job number: 1  |
+
+
+Current second: 243  | Core: 1  |Current job number: 1  |
+
+
+Current second: 244  | Core: 1  |Current job number: 1  |
+
+
+Current second: 245  | Core: 1  |Current job number: 1  |
+
+
+Current second: 246  | Core: 1  |Current job number: 1  |
+
+
+Current second: 247  | Core: 1  |Current job number: 1  |
+
+
+Current second: 248  | Core: 1  |Current job number: 1  |
+
+
+Current second: 249  | Core: 1  |Current job number: 1  |
+
+
+Current second: 250  | Core: 1  |Current job number: 1  |
+
+
+Current second: 251  | Core: 1  |Current job number: 1  |
+
+
+Current second: 252  | Core: 1  |Current job number: 1  |
+
+
+Current second: 253  | Core: 1  |Current job number: 1  |
+
+
+Current second: 254  | Core: 1  |Current job number: 1  |
+
+
+Current second: 255  | Core: 1  |Current job number: 1  |
+
+
+Current second: 256  | Core: 1  |Current job number: 1  |
+
+
+Current second: 257  | Core: 1  |Current job number: 1  |
+
+
+Current second: 258  | Core: 1  |Current job number: 1  |
+
+
+Current second: 259  | Core: 1  |Current job number: 1  |
+
+
+Current second: 260  | Core: 1  |Current job number: 1  |
+
+
+Current second: 261  | Core: 1  |Current job number: 1  |
+
+
+Current second: 262  | Core: 1  |Current job number: 1  |
+
+
+Current second: 263  | Core: 1  |Current job number: 1  |
+
+
+Current second: 264  | Core: 1  |Current job number: 1  |
+
+
+Current second: 265  | Core: 1  |Current job number: 1  |
+
+
+Current second: 266  | Core: 1  |Current job number: 1  |
+
+
+Current second: 267  | Core: 1  |Current job number: 1  |
+
+
+Completed job 1
+Current second: 268  | Core: 1  |Current job number: 1  |
+
+
+Current second: 269  | Core: 1  |Current job number: 5  |
+
+
+Current second: 270  | Core: 1  |Current job number: 5  |
+
+
+Current second: 271  | Core: 1  |Current job number: 5  |
+
+
+Current second: 272  | Core: 1  |Current job number: 5  |
+
+
+Current second: 273  | Core: 1  |Current job number: 5  |
+
+
+Current second: 274  | Core: 1  |Current job number: 5  |
+
+
+Current second: 275  | Core: 1  |Current job number: 5  |
+
+
+Current second: 276  | Core: 1  |Current job number: 5  |
+
+
+Current second: 277  | Core: 1  |Current job number: 5  |
+
+
+Current second: 278  | Core: 1  |Current job number: 5  |
+
+
+Current second: 279  | Core: 1  |Current job number: 5  |
+
+
+Current second: 280  | Core: 1  |Current job number: 5  |
+
+
+Current second: 281  | Core: 1  |Current job number: 5  |
+
+
+Current second: 282  | Core: 1  |Current job number: 5  |
+
+
+Current second: 283  | Core: 1  |Current job number: 5  |
+
+
+Current second: 284  | Core: 1  |Current job number: 5  |
+
+
+Current second: 285  | Core: 1  |Current job number: 5  |
+
+
+Current second: 286  | Core: 1  |Current job number: 5  |
+
+
+Current second: 287  | Core: 1  |Current job number: 5  |
+
+
+Current second: 288  | Core: 1  |Current job number: 5  |
+
+
+Current second: 289  | Core: 1  |Current job number: 5  |
+
+
+Current second: 290  | Core: 1  |Current job number: 5  |
+
+
+Current second: 291  | Core: 1  |Current job number: 5  |
+
+
+Current second: 292  | Core: 1  |Current job number: 5  |
+
+
+Current second: 293  | Core: 1  |Current job number: 5  |
+
+
+Current second: 294  | Core: 1  |Current job number: 5  |
+
+
+Current second: 295  | Core: 1  |Current job number: 5  |
+
+
+Current second: 296  | Core: 1  |Current job number: 5  |
+
+
+Current second: 297  | Core: 1  |Current job number: 5  |
+
+
+Current second: 298  | Core: 1  |Current job number: 5  |
+
+
+Current second: 299  | Core: 1  |Current job number: 5  |
+
+
+Current second: 300  | Core: 1  |Current job number: 5  |
+
+
+Current second: 301  | Core: 1  |Current job number: 5  |
+
+
+Current second: 302  | Core: 1  |Current job number: 5  |
+
+
+Current second: 303  | Core: 1  |Current job number: 5  |
+
+
+Current second: 304  | Core: 1  |Current job number: 5  |
+
+
+Current second: 305  | Core: 1  |Current job number: 5  |
+
+
+Current second: 306  | Core: 1  |Current job number: 5  |
+
+
+Current second: 307  | Core: 1  |Current job number: 5  |
+
+
+Current second: 308  | Core: 1  |Current job number: 5  |
+
+
+Current second: 309  | Core: 1  |Current job number: 5  |
+
+
+Current second: 310  | Core: 1  |Current job number: 5  |
+
+
+Current second: 311  | Core: 1  |Current job number: 5  |
+
+
+Current second: 312  | Core: 1  |Current job number: 5  |
+
+
+Current second: 313  | Core: 1  |Current job number: 5  |
+
+
+Current second: 314  | Core: 1  |Current job number: 5  |
+
+
+Current second: 315  | Core: 1  |Current job number: 5  |
+
+
+Current second: 316  | Core: 1  |Current job number: 5  |
+
+
+Current second: 317  | Core: 1  |Current job number: 5  |
+
+
+Completed job 5
+Current second: 318  | Core: 1  |Current job number: 5  |
+
+
+Current second: 319  | Core: 1  |Current job number: 4  |
+
+
+Current second: 320  | Core: 1  |Current job number: 4  |
+
+
+Current second: 321  | Core: 1  |Current job number: 4  |
+
+
+Current second: 322  | Core: 1  |Current job number: 4  |
+
+
+Current second: 323  | Core: 1  |Current job number: 4  |
+
+
+Current second: 324  | Core: 1  |Current job number: 4  |
+
+
+Current second: 325  | Core: 1  |Current job number: 4  |
+
+
+Current second: 326  | Core: 1  |Current job number: 4  |
+
+
+Current second: 327  | Core: 1  |Current job number: 4  |
+
+
+Current second: 328  | Core: 1  |Current job number: 4  |
+
+
+Completed job 4
+Current second: 329  | Core: 1  |Current job number: 4  |
+
+Statistics:
+Job number: 2  | Wait time: 0    | Execution time: 15   |
+Job number: 7  | Wait time: 4    | Execution time: 37   |
+Job number: 6  | Wait time: 32   | Execution time: 4    |
+Job number: 8  | Wait time: 0    | Execution time: 156  |
+Job number: 3  | Wait time: 154  | Execution time: 8    |
+Job number: 1  | Wait time: 159  | Execution time: 100  |
+Job number: 5  | Wait time: 249  | Execution time: 50   |
+Job number: 4  | Wait time: 310  | Execution time: 11   |
+
+Average wait time: 113.5
+Average execution time: 47.6

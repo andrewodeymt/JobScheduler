@@ -1,0 +1,64 @@
+Second by second output for a Job Scheduler. If a job is completed, the wait time and total execution time for the job are also printed.
+
+Number of jobs: 2
+
+
+
+Current second: 0    | Queue Idle
+
+
+Current second: 1    | Queue Idle
+
+
+Current second: 2    | Queue Idle
+
+
+Current second: 3    | Queue Idle
+
+
+Current second: 4    | Queue Idle
+
+
+Current second: 5    | Core: 1  |Current job number: 1  |
+
+
+Current second: 6    | Core: 1  |Current job number: 1  |
+
+
+Current second: 7    | Core: 1  |Current job number: 1  |
+
+
+Current second: 8    | Core: 1  |Current job number: 2  |
+
+
+Current second: 9    | Core: 1  |Current job number: 2  |
+
+
+Current second: 10   | Core: 1  |Current job number: 2  |
+
+
+Current second: 11   | Core: 1  |Current job number: 2  |
+
+
+Current second: 12   | Core: 1  |Current job number: 2  |
+
+
+Current second: 13   | Core: 1  |Current job number: 2  |
+
+
+Completed job 2
+Current second: 14   | Core: 1  |Current job number: 2  |
+
+
+Current second: 15   | Core: 1  |Current job number: 1  |
+
+
+Completed job 1
+Current second: 16   | Core: 1  |Current job number: 1  |
+
+Statistics:
+Job number: 2  | Wait time: 0    | Execution time: 7    |
+Job number: 1  | Wait time: 0    | Execution time: 12   |
+
+Average wait time: 0.0
+Average execution time: 9.5
