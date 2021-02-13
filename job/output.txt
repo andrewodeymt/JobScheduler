@@ -1,0 +1,139 @@
+Second by second output for a Job Scheduler. If a job is completed, the wait time and total execution time for the job are also printed.
+
+Number of jobs: 4
+
+Current second: 0    | Queue Idle
+Current second: 1    | Queue Idle
+Current second: 2    | Queue Idle
+Current second: 3    | Queue Idle
+Current second: 4    | Queue Idle
+Current second: 5    | Queue Idle
+Current second: 6    | Queue Idle
+Current second: 7    | Queue Idle
+Current second: 8    | Queue Idle
+Current second: 9    | Current job number: 4  |
+Current second: 10   | Current job number: 2  |
+Current second: 11   | Current job number: 2  |
+Current second: 12   | Current job number: 2  |
+Current second: 13   | Current job number: 2  |
+Current second: 14   | Current job number: 2  |
+Current second: 15   | Current job number: 2  |
+Current second: 16   | Current job number: 2  |
+Current second: 17   | Current job number: 2  |
+Current second: 18   | Current job number: 2  |
+Current second: 19   | Current job number: 2  |
+Current second: 20   | Current job number: 2  |
+Current second: 21   | Current job number: 2  |
+Current second: 22   | Current job number: 2  |
+Current second: 23   | Current job number: 2  |
+Current second: 24   | Current job number: 2  |
+Completed job 2
+Current second: 25   | Current job number: 7  |
+Current second: 26   | Current job number: 7  |
+Current second: 27   | Current job number: 7  |
+Current second: 28   | Current job number: 7  |
+Current second: 29   | Current job number: 7  |
+Current second: 30   | Current job number: 7  |
+Current second: 31   | Current job number: 7  |
+Current second: 32   | Current job number: 7  |
+Current second: 33   | Current job number: 7  |
+Current second: 34   | Current job number: 7  |
+Current second: 35   | Current job number: 7  |
+Current second: 36   | Current job number: 7  |
+Current second: 37   | Current job number: 7  |
+Current second: 38   | Current job number: 7  |
+Current second: 39   | Current job number: 7  |
+Current second: 40   | Current job number: 7  |
+Current second: 41   | Current job number: 7  |
+Current second: 42   | Current job number: 7  |
+Current second: 43   | Current job number: 7  |
+Current second: 44   | Current job number: 7  |
+Current second: 45   | Current job number: 7  |
+Current second: 46   | Current job number: 7  |
+Current second: 47   | Current job number: 7  |
+Current second: 48   | Current job number: 7  |
+Current second: 49   | Current job number: 7  |
+Current second: 50   | Current job number: 7  |
+Current second: 51   | Current job number: 7  |
+Current second: 52   | Current job number: 7  |
+Current second: 53   | Current job number: 7  |
+Current second: 54   | Current job number: 7  |
+Current second: 55   | Current job number: 7  |
+Current second: 56   | Current job number: 7  |
+Current second: 57   | Current job number: 7  |
+Current second: 58   | Current job number: 7  |
+Current second: 59   | Current job number: 7  |
+Current second: 60   | Current job number: 7  |
+Current second: 61   | Current job number: 7  |
+Completed job 7
+Current second: 62   | Current job number: 5  |
+Current second: 63   | Current job number: 5  |
+Current second: 64   | Current job number: 5  |
+Current second: 65   | Current job number: 5  |
+Current second: 66   | Current job number: 5  |
+Current second: 67   | Current job number: 5  |
+Current second: 68   | Current job number: 5  |
+Current second: 69   | Current job number: 5  |
+Current second: 70   | Current job number: 5  |
+Current second: 71   | Current job number: 5  |
+Current second: 72   | Current job number: 5  |
+Current second: 73   | Current job number: 5  |
+Current second: 74   | Current job number: 5  |
+Current second: 75   | Current job number: 5  |
+Current second: 76   | Current job number: 5  |
+Current second: 77   | Current job number: 5  |
+Current second: 78   | Current job number: 5  |
+Current second: 79   | Current job number: 5  |
+Current second: 80   | Current job number: 5  |
+Current second: 81   | Current job number: 5  |
+Current second: 82   | Current job number: 5  |
+Current second: 83   | Current job number: 5  |
+Current second: 84   | Current job number: 5  |
+Current second: 85   | Current job number: 5  |
+Current second: 86   | Current job number: 5  |
+Current second: 87   | Current job number: 5  |
+Current second: 88   | Current job number: 5  |
+Current second: 89   | Current job number: 5  |
+Current second: 90   | Current job number: 5  |
+Current second: 91   | Current job number: 5  |
+Current second: 92   | Current job number: 5  |
+Current second: 93   | Current job number: 5  |
+Current second: 94   | Current job number: 5  |
+Current second: 95   | Current job number: 5  |
+Current second: 96   | Current job number: 5  |
+Current second: 97   | Current job number: 5  |
+Current second: 98   | Current job number: 5  |
+Current second: 99   | Current job number: 5  |
+Current second: 100  | Current job number: 5  |
+Current second: 101  | Current job number: 5  |
+Current second: 102  | Current job number: 5  |
+Current second: 103  | Current job number: 5  |
+Current second: 104  | Current job number: 5  |
+Current second: 105  | Current job number: 5  |
+Current second: 106  | Current job number: 5  |
+Current second: 107  | Current job number: 5  |
+Current second: 108  | Current job number: 5  |
+Current second: 109  | Current job number: 5  |
+Current second: 110  | Current job number: 5  |
+Current second: 111  | Current job number: 5  |
+Completed job 5
+Current second: 112  | Current job number: 4  |
+Current second: 113  | Current job number: 4  |
+Current second: 114  | Current job number: 4  |
+Current second: 115  | Current job number: 4  |
+Current second: 116  | Current job number: 4  |
+Current second: 117  | Current job number: 4  |
+Current second: 118  | Current job number: 4  |
+Current second: 119  | Current job number: 4  |
+Current second: 120  | Current job number: 4  |
+Current second: 121  | Current job number: 4  |
+Completed job 4
+
+Statistics:
+Job number: 2  | Wait time: 0    | Execution time: 15   |
+Job number: 7  | Wait time: 4    | Execution time: 37   |
+Job number: 5  | Wait time: 42   | Execution time: 50   |
+Job number: 4  | Wait time: 0    | Execution time: 113  |
+
+Average wait time: 11.5
+Average execution time: 53.8
