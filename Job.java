@@ -1,3 +1,6 @@
+/**
+ * Authors: Liam Fallon and Andrew O'Donnell
+ */
 public class Job implements Comparable<Job> {
     private int jobNum, priority, arrivalTime, duration, progress, startTime, waitTime, execTime = 0;
 

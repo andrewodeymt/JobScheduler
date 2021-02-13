@@ -1,5 +1,6 @@
 /**
  * http://developer.classpath.org/doc/java/util/PriorityQueue-source.html
+ * Authors: Liam Fallon and Andrew O'Donnell
  */
 public class JobPriorityQueue<T extends Comparable<T>> {
     private T[] heap;

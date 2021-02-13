@@ -1,3 +1,7 @@
+/**
+ * Authors: Liam Fallon and Andrew O'Donnell
+ */
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
